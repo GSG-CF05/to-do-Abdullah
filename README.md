@@ -12,5 +12,5 @@ It is an application that displays the tasks that must be done, where the user c
   
 # Live link :
 * https://gsg-cf05.github.io/to-do-Abdullah/
-# team member
+# team member :
   Abdullah Abu SuSuin 
